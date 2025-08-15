@@ -55,7 +55,7 @@ $ sudo apt-get install dkms
 
 ### Download
 ```
-$ git clone -b v5.6.4.2 https://github.com/aircrack-ng/rtl8812au.git
+$ git clone -b v5.6.4.2 https://github.com/mohdsami91/Tp-link-AC600-dual-band-wifi-adaptor-drivers-Linux-mint-.git
 cd rtl*
 ```
 
