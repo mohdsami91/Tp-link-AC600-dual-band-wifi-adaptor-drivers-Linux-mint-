@@ -56,7 +56,6 @@ $ sudo apt-get install dkms
 ### Download
 ```
 $ git clone https://github.com/mohdsami91/Tp-link-AC600-dual-band-wifi-adaptor-drivers-Linux-mint-.git
-cd rtl*
 ```
 
 ### Installation of Driver
